@@ -6,3 +6,5 @@ https://app.powerbi.com/view?r=eyJrIjoiNzJkNDNjNGYtMjI0MC00ZTkzLWJhMzUtYmZjMmYwN
 
 ## Data Source
 http://ncov.bii.virginia.edu/dashboard/
+
+https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
